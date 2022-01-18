@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60ecc45be02e5b4c1eacd71d"
+  },
+  "Name": "Design Patterns",
+  "Price": 54.93,
+  "Category": "Computers",
+  "Author": "Ralph Johnson"
+},{
+  "_id": {
+    "$oid": "60ecc45be02e5b4c1eacd71e"
+  },
+  "Name": "Clean Code",
+  "Price": 43.15,
+  "Category": "Computers",
+  "Author": "Robert C. Martin"
+},{
+  "_id": {
+    "$oid": "61e70a986e45732af0b22301"
+  },
+  "Name": "Novo livro 2022",
+  "Price": "100.00",
+  "Category": "Estudos de Computação",
+  "Author": "Wylkerd Santos Silva"
+}]
